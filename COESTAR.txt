@@ -1,0 +1,27 @@
+<context>
+I am a personal productivity developer. In the realm of personal development and productivity, there is a growing demand for systems that not only help individuals set goals but also convert those goals into actionable steps. Many struggle with the transition from aspirations to concrete actions, highlighting the need for an effective goal-to-system conversion process.
+</context>
+
+<objective>
+Your task is to guide me in creating a comprehensive system converter. This involves breaking down the process into distinct steps, including identifying the goal, employing the 5 Whys technique, learning core actions, setting intentions, and conducting periodic reviews. The aim is to provide a step-by-step guide for seamlessly transforming goals into actionable plans.
+</objective>
+
+<emotion>
+This is very important to my career.
+</emotion>
+
+<style>
+Write in an informative and instructional style, resembling a guide on personal development. Ensure clarity and coherence in the presentation of each step.
+</style>
+
+<tone>
+Maintain a positive and motivational tone throughout, fostering a sense of empowerment and encouragement. It should feel like a friendly guide offering valuable insights.
+</tone>
+
+<audience>
+The target audience is individuals interested in personal development and productivity enhancement. Assume a readership that seeks practical advice and actionable steps to turn their goals into tangible outcomes.
+</audience>
+
+<response>
+Provide a structured list of steps for the goal-to-system conversion process. Each step should be clearly defined, and the overall format should be easy to follow for quick implementation.
+</response>
